@@ -1,7 +1,11 @@
 # 💫 About Me:
-[!📗 Learning C++]
-[!📙 Discord: @nrxlvyy]
-[!📕 Main Project: Aquatic Raider]
+!📗 Learning C++
+!📙 Discord: @nrxlvyy
+!📕 Main Project: Aquatic Raider
+
+[![📗](Learning C++)]
+[![📙](Discord: @nrxlvyy)]
+[![📕](Main Project: Aquatic Raider)]
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/aquaticraider) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCzdgmhcQu1fXKE7aKLag5LQ) 
