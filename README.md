@@ -1,7 +1,7 @@
 # 💫 About Me:
-📗 Learning C++
-📙 Discord: @nrxlvyy
-📕 Main Project: Aquatic Raider
+- 📗 Learning C++
+- 📙 Discord: @nrxlvyy
+- 📕 Main Project: Aquatic Raider
 
 
 # 🌐 Socials:
